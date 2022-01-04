@@ -1,3 +1,6 @@
 test
 testing the extra words
 hello test
+thanks for coming to class
+I hope you have a great day
+:-)
